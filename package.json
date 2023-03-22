@@ -1,0 +1,26 @@
+{
+  "name": "express-fs-routing",
+  "version": "1.0.0",
+  "description": "An express based file system routing framework using HTML, CSS and JS",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "tsc && cd dist && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diamonddev01/express-fs-routing.git"
+  },
+  "keywords": [
+    "framework"
+  ],
+  "author": "DiamondDev01",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/diamonddev01/express-fs-routing/issues"
+  },
+  "homepage": "https://github.com/diamonddev01/express-fs-routing#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.5",
+    "typescript": "^5.0.2"
+  }
+}
